@@ -1,0 +1,1 @@
+winws.exe --wf-tcp=80,443 --wf-udp=443,50000-50100 --filter-tcp=443 --hostlist="discord.com,discord.media" --filter-udp=50000-50100 --filter-l7=discord,stun --dpi-desync=fake --dpi-desync-repeats=6

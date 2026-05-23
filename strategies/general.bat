@@ -1,0 +1,1 @@
+bin\winws.exe @strategies\general-params.txt

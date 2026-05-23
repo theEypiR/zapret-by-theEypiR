@@ -1,0 +1,1 @@
+bin\winws.exe --wf-tcp=80,443 --filter-tcp=443 --dpi-desync=fake --dpi-desync-repeats=6

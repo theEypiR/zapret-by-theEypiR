@@ -1,0 +1,1 @@
+winws.exe --wf-tcp=80,443 --filter-tcp=443 --hostlist="youtube.com,ytimg.com,googlevideo.com,ggpht.com" --dpi-desync=fake --dpi-desync-repeats=6
